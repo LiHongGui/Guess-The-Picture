@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C23B4D20EFE235AF89FAEFE6AD29844D9A66DAAD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C23B4D20EFE235AF89FAEFE6AD29844D9A66DAAD" : 0,
+    "A7657AFEE0D022F54F4B35D0F3F25FB0C22E5250" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "17B726F4-92A7-4009-8715-BE325A710FCB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C23B4D20EFE235AF89FAEFE6AD29844D9A66DAAD" : "Guess-The-Picture\/",
+    "A7657AFEE0D022F54F4B35D0F3F25FB0C22E5250" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GuessThePicture",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GuessThePicture\/GuessThePicture.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LiHongGui\/LiHongGui-GitHub.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A7657AFEE0D022F54F4B35D0F3F25FB0C22E5250"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LiHongGui\/Guess-The-Picture.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C23B4D20EFE235AF89FAEFE6AD29844D9A66DAAD"
+    }
+  ]
+}
